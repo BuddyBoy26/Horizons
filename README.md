@@ -13,7 +13,7 @@ Gestures:
  | Peace to Middle Finger - Click
  | Fist - PAN
  | Right Hand Pinch - ORBIT
- | Left Hand Pinch - ZOOM (Up for zooming out and Down for Zooming in)| 
+ | Left Hand Pinch - ZOOM (Up for zooming out and Down for Zooming in) | 
 
 
 The basis for this code is Mediapipe and OpenCV. However, Module.py is a modified version of an online available module so as to ensure smooth presentation experience. The gestures were modified, commands changed, and some functions (Audio and Brightness controller) were removed so as to ensure smooth function of the code and increase response speed.
