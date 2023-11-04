@@ -6,11 +6,11 @@ This code enables you to view your CAD Model and contol your Presentations with 
 How to use it though? Simple. Just run the code....Code.py
 
 Gestures:
-Palm - Resets commands
-Peace - Moves the cursor
-Peace Closed - Next
-Peace to Index Finger - Previous
-Peace to Middle Finger - Click
-Fist - PAN
-Right Hand Pinch - ORBIT
-Left Hand Pinch - ZOOM (Up for zooming out and Down for Zooming in)
+ | Palm - Resets commands 
+ | Peace - Moves the cursor
+ | Peace Closed - Next
+ | Peace to Index Finger - Previous
+ | Peace to Middle Finger - Click
+ | Fist - PAN
+ | Right Hand Pinch - ORBIT
+ | Left Hand Pinch - ZOOM (Up for zooming out and Down for Zooming in)
