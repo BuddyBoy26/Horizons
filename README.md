@@ -4,6 +4,7 @@ Imagine a presentation experience like no other, where the power of your gesture
 This code enables you to view your CAD Model and contol your Presentations with a touch of the future.
 
 How to use it though? 
+
 Install python and pip install the following packages.
 opencv, mediapipe, pyautogui, enum, ctypes, comtypes, google-auth, google-auth-oauthlib.
 
