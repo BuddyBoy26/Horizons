@@ -5,7 +5,7 @@ This code enables you to view your CAD Model and contol your Presentations with 
 
 How to use it though? 
 
-Install python and pip install the following packages.
+Install python and pip install the following packages:
 opencv, mediapipe, pyautogui, enum, ctypes, comtypes, google-auth, google-auth-oauthlib.
 
 Then, just run the code....Code.py
